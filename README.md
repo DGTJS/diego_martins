@@ -1,42 +1,40 @@
-<h1>👋 &nbsp;Hey, I'm Felipe Rocha, a passionate Full Stack Engineer!</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<h1>👋 &nbsp;Olá, eu sou Diego Martins — Desenvolvedor Full Stack apaixonado por tecnologia!</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-martins7/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram%20Profissional-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://diego-martins.vercel.app"><img src="https://img.shields.io/badge/-Meu%20Portfólio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+Sou **Desenvolvedor Full Stack** com 4 anos de experiência, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+Minha stack principal inclui **TypeScript, React, Next.js, Node.js, Flutter, PostgreSQL e MongoDB**. Já atuei em diversos projetos como PJ, ajudando startups e empresas a tirarem ideias do papel com soluções modernas e bem arquitetadas.
 
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
+Minha jornada na programação começou por curiosidade, mas rapidamente virou paixão e hoje é minha profissão. Gosto de resolver problemas reais com código limpo, entregando soluções que funcionam e escalam.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+<h2> 🎯 &nbsp;O que me move</h2>
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+Sou movido por desafios e aprendizado constante. Sempre busco evoluir como dev e como pessoa, mantendo os olhos nas tendências, mas os pés na realidade técnica do dia a dia.
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
+Quando não estou programando, estou estudando novas tecnologias, otimizando interfaces ou ajudando outros devs a se desenvolverem profissionalmente.
 
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
+<h2>📚 &nbsp;O que você vai encontrar aqui?</h2>
 
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
+Este portfólio e repositório são uma extensão do meu trabalho e visão como desenvolvedor. Aqui você vai encontrar:
 
-<h2> 📚 &nbsp;What will you find here?</h2>
+- Projetos reais com foco em resultado e usabilidade  
+- Código limpo, modular e baseado em boas práticas  
+- Arquitetura escalável e integração com APIs REST  
+- Interfaces otimizadas com SSR, SSG e mobile first  
+- Testes automatizados e documentação organizada  
 
-This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
-
-- Real-world projects used by thousands of users
-- Clean Architecture and SOLID principles in action
-- High test coverage with automated testing
-- Experiments, technical studies, and real-world best practices
-  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+Se quiser trocar uma ideia, tirar uma dúvida ou conversar sobre alguma oportunidade, fique à vontade para me chamar por e-mail ou <a href="https://www.linkedin.com/in/diego-martins7/">no LinkedIn</a>!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
+
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -44,26 +42,22 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+<h3>⚙️ &nbsp;Back-end & banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![REST](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)
+![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+<h2>🚀 &nbsp;Meus stats no GitHub</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Diego Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username-aqui&show_icons=true&theme=radical)
