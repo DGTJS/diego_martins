@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
-Sou **Desenvolvedor Full Stack** com 4 anos de experiência, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
+Sou **Desenvolvedor Full Stack**, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
 
 Minha stack principal inclui **TypeScript, React, Next.js, Node.js, Flutter, PostgreSQL e MongoDB**. Já atuei em diversos projetos como PJ, ajudando startups e empresas a tirarem ideias do papel com soluções modernas e bem arquitetadas.
 
