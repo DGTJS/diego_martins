@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-martins7/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!--   <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram%20Profissional-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
+<!--   <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram%20Profissional-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>:
+  <a href="mailto:joaodiegom21@gmail.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  --> -->
   <a href="https://diego-martins.vercel.app"><img src="https://img.shields.io/badge/-Meu%20Portfólio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
